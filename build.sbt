@@ -2,7 +2,7 @@ lazy val root = (project in file("."))
 
 scalaVersion := "2.13.10"
 
-val tapirVersion = "1.2.4"
+val tapirVersion = "1.2.9"
 val jacksonVersion = "2.13.1"
 
 libraryDependencies ++= Seq(
